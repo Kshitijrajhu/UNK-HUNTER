@@ -10,13 +10,13 @@ async def play_logs(message, streamtype):
         else:
             chatusername = "ᴩʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ"
         logger_text = f"""
-**{MUSIC_BOT_NAME} ᴩʟᴀʏ ʟᴏɢɢᴇʀ**
+**「Uɴᴋ  𓆩✘𓆪 Mᴜsɪᴄ」 Pʟᴀʏ Lᴏɢɢᴇʀ**
 
-**ᴄʜᴀᴛ:** {message.chat.title} [`{message.chat.id}`]
-**ᴜsᴇʀ:** {message.from_user.mention}
-**ᴜsᴇʀɴᴀᴍᴇ:** @{message.from_user.username}
-**ɪᴅ:** `{message.from_user.id}`
-**ᴄʜᴀᴛ ʟɪɴᴋ:** {chatusername}
+**Cʜᴀᴛ:** {message.chat.title} [`{message.chat.id}`]
+**Usᴇʀ:** {message.from_user.mention}
+**Usᴇʀɴᴀᴍᴇ:** @{message.from_user.username}
+**Iᴅ:** `{message.from_user.id}`
+**Cʜᴀᴛ Lɪɴᴋ:** {chatusername}
 
 **sᴇᴀʀᴄʜᴇᴅ ғᴏʀ:** {message.text}
 
