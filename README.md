@@ -8,32 +8,32 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=green" /></a>
     <a href="https://github.com//RaiChu-MusicV2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /></a>
     <a href="https://app.codacy.com/gh/AMANTYA1/RaiChu-MusicV2/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=green&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2"> <img src="https://img.shields.io/github/repo-size/AMANTYA1/Video-call-bot?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/commits/main"> <img src="https://img.shields.io/github/last-commit/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/issues"> <img src="https://img.shields.io/github/issues/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/network/members"> <img src="https://img.shields.io/github/forks/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/network/members"> <img src="https://img.shields.io/github/stars/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/ABHIMUSICTEAM/tommusic"> <img src="https://img.shields.io/github/repo-size/AMANTYA1/Video-call-bot?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/ABHIMUSICTEAM/tommusic/commits/main"> <img src="https://img.shields.io/github/last-commit/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/ABHIMUSICTEAM/tommusic/issues"> <img src="https://img.shields.io/github/issues/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/ABHIMUSICTEAM/tommusic/network/members"> <img src="https://img.shields.io/github/forks/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/ABHIMUSICTEAM/tommusic/network/members"> <img src="https://img.shields.io/github/stars/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/fork">
-    <img src="https://img.shields.io/github/forks/AMANTYA1/RaiChu-MusicV2?color=dark&label=FORK&logo=github&style=plastic"width="100" height="35"> 
+  <a href="https://github.com/ABHIMUSICTEAM/tommusic/fork">
+    <img src="https://img.shields.io/github/forks/ABHIMUSICTEAM/tommusic?color=dark&label=FORK&logo=github&style=plastic"width="100" height="35"> 
   </a>
   <a href="https://github.com/youtubeslgeekshow/Video-call-bot/stars">
-    <img src="https://img.shields.io/github/stars/AMANTYA1/RaiChu-MusicV2?color=dark&label=STARS&logo=github&style=plastic"width="100" height="35">
+    <img src="https://img.shields.io/github/stars/ABHIMUSICTEAM/tommusic?color=dark&label=STARS&logo=github&style=plastic"width="100" height="35">
   </a>
 </p>  
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AMANTYA1&repo=RaiChuMusic&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ABHIMUSICTEAM&repo=tommusic&theme=dark)
 
-## Find me here : [RaiChu](https://t.me/BooNullXbot)
+## Find me here : [「Uɴᴋ 𓆩✘𓆪 HᴜɴᴛᴇʀX」](https://t.me/UNK_HUNTERX)
 
 🏷️ --**Setting Up**-- :
-- 1.) first, add @JenniFer_x_RoBot to your group.
+- 1.) first, add @UNK_MUSIC_BOT to your group.
 - 2.) then promote me as admin and give all permissions except anonymous admin.
-- 3.) add @CrowXnull to your group.
+- 3.) add @UNK_ROBOT to your group.
 - 4.) turn on the voice chat first before start to play song.
 - 5.) type /play (reply to video) to start streaming.
 - 6.) type /end to end the video streaming.
@@ -104,7 +104,7 @@ The easiest way to host this bot
 </details> </h3>
 
 ### Support & Updates 🌹
-<a href="https://t.me/TheSupportChat"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/UNK_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
-</a> <a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</a> <a href="https://t.me/UNK_NETWORK"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
