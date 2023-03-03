@@ -3,7 +3,7 @@
 
 telegram bot project for streaming video on telegram video chat, powered by [tgcalls](https://github.com/MarshalX/tgcalls) and [pyrogram](https://github.com/pyrogram/pyrogram)
 
-<p align="center"><a href="https://t.me/UNK_HUNTERX"><img src="https://telegra.ph/file/29b1910781fb0d6a4869f.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/UNK_HUNTERX"><img src="https://graph.org/file/4a9d39fc5a4bfd887a638.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=green" /></a>
     <a href="https://github.com//RaiChu-MusicV2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /></a>
