@@ -18,9 +18,9 @@ async def play_logs(message, streamtype):
 **Iᴅ:** `{message.from_user.id}`
 **Cʜᴀᴛ Lɪɴᴋ:** {chatusername}
 
-**sᴇᴀʀᴄʜᴇᴅ ғᴏʀ:** {message.text}
+**Sᴇᴀʀᴄʜᴇᴅ Fᴏʀ:** {message.text}
 
-**sᴛʀᴇᴀᴍ ᴛʏᴩᴇ:** {streamtype}"""
+**Sᴛʀᴇᴀᴍ Tʏᴩᴇ:** {streamtype}"""
         if message.chat.id != LOG_GROUP_ID:
             try:
                 await app.send_message(
